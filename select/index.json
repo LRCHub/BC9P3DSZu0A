@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "女々しくて",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2026-01-09T07:19:43.025864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "女々しくて - K-POPバージョン",
+      "artist": "Golden Bomber",
+      "has_synced": false,
+      "path": "select/01_女々しくて_-_K-POPバージョン_Golden_Bomber.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/02_女々しくて_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "女々しくて (オリジナルカラオケ)",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/03_女々しくて_(オリジナルカラオケ)_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "女々しくて - Memeshikute",
+      "artist": "Golden Bomber",
+      "has_synced": true,
+      "path": "select/04_女々しくて_-_Memeshikute_Golden_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/05_女々しくて_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/06_女々しくて_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/07_女々しくて_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/08_女々しくて_96猫.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "女々しくて (オリジナル・カラオケ)",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/09_女々しくて_(オリジナル・カラオケ)_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "女々しくて (feat. Kuroneko)",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/10_女々しくて_(feat._Kuroneko)_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/11_女々しくて_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Memeshikute (K-Pop Ver.) (女々しくて)",
+      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "has_synced": true,
+      "path": "select/12_Memeshikute_(K-Pop_Ver.)_(女々しくて)_Golden_Bomber_(ゴールデンボンバー).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "女々しくて",
+      "artist": "マチゲリータ",
+      "has_synced": false,
+      "path": "select/13_女々しくて_マチゲリータ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "女々しくて (English Ver.)",
+      "artist": "GILLE",
+      "has_synced": false,
+      "path": "select/14_女々しくて_(English_Ver.)_GILLE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "女々しくて",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_女々しくて_ゴールデンボンバー.txt"
+    }
+  ]
+}
